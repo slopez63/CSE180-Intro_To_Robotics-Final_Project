@@ -2,8 +2,8 @@
 
 This project was created using ROS Kinetic with C++. The objective of this project was to be able make a robot search and log objects that are in a obstacle enviroment. Appliying all that was learned through this class made this project more of an problem solving engineering project instead of just learning how syntax works.
 
-Throughout this class I learned how to: 
-  Create topic broadcasters and listeners,
+Throughout this class I learned how to 
+  create topic broadcasters and listeners,
   larned how to use standard messages such as position and velocity data,
   used Ultrasonic Sensors,
   used Laser Sensors,
