@@ -4,8 +4,8 @@ This project was created using ROS Kinetic with C++. The objective of this proje
 
 Throughout this class I learned how to 
   create topic broadcasters and listeners,
-  larned how to use standard messages such as position and velocity data,
-  used Ultrasonic Sensors,
-  used Laser Sensors,
-  used different robot localisation tools such as Adaptive Monte Carlo Localization and Extended Kalman Filter,
-  learned how different components of ros work in parallel.
+  use standard messages such as position and velocity data,
+  use Ultrasonic Sensors,
+  use Laser Sensors,
+  use different robot localisation tools such as Adaptive Monte Carlo Localization and Extended Kalman Filter,
+  build different ros nodes in parallel.
